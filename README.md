@@ -1,2 +1,2 @@
 # DataScience-Helper-Methods
-This repository has basic code snippets for usage by Data Scientists.
+This repository has basic code snippets for usage of Data Scientists.
